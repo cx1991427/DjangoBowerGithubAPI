@@ -1,5 +1,5 @@
 adium-theme-ubuntu==0.3.4
-certifi==2017.4.17
+certifi==2022.12.7
 chardet==3.0.3
 Django==1.11.2
 gyp==0.1
